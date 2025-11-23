@@ -1,10 +1,5 @@
 # linear_regression_model
 Mobile App Regression Analysis
-Here’s a **ready-to-use README.md** for your project based on the requirements:
-
----
-
-````markdown
 # Calories Prediction Mobile App
 
 ## Mission & Problem
@@ -15,7 +10,7 @@ The model uses Random Forest, Linear Regression, and Decision Tree algorithms fo
 
 ## API Endpoint
 The API is publicly available and can be tested using Swagger UI:  
-**POST /predict** → `https://YOUR_RENDER_URL/predict`  
+**POST /predict** → https://calories-api-x3l2.onrender.com/  
 Input JSON example:
 ```json
 {
